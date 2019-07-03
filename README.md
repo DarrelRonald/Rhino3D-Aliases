@@ -1,7 +1,7 @@
 # Rhino 3D Alias Shortcuts
 A custom set of Rhino Alias shortcuts based upon the Maxwan AutoCAD shortcuts.
 
-# Developer
+# Contributors
 These shortcuts have been solely developed by [@DarrelRonald](https://github.com/DarrelRonald) since 2007. 
 
 # McNeel Rhino Developer Docs
