@@ -2,7 +2,7 @@
 A custom set of Rhino Alias shortcuts based upon the Maxwan AutoCAD shortcuts.
 
 ## Contributors
-These shortcuts have been solely developed by [@DarrelRonald](https://github.com/DarrelRonald) since 2007. 
+These shortcuts have been developed by [@DarrelRonald](https://github.com/DarrelRonald) since 2007. 
 
 ## Installation
 1. Navigate in Rhino to `< Tools > Options > Aliases >` and then `<import>` the .TXT file in the repository. 
