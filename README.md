@@ -12,3 +12,4 @@ These roughly 175 shortcuts have been developed by [@DarrelRonald](https://githu
 * [McNeel on Github](https://github.com/mcneel)
 * [McNeel RhinoScript Reference](https://developer.rhino3d.com/guides/rhinoscript/)
 * [McNeel Rhino3D v6 Help - Commands Reference](http://docs.mcneel.com/rhino/6/help/en-us/index.htm#commandlist/command_list.htm%3FTocPath%3D_____3)
+* [McNeel Rhino3D v6 Help - Aliases, Commands and Macros Scripting](http://docs.mcneel.com/rhino/6/help/en-us/index.htm#information/rhino_scripting.htm%3FTocPath%3DScripting%2520and%2520programming%7C_____1)
