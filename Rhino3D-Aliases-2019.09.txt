@@ -1,0 +1,190 @@
+﻿Z '_Zoom
+Ze '_Zoom _Extents
+ZEA '_Zoom _All _Extents
+Zs '_Zoom _Selected
+Zsa '_Zoom _All _Selected
+S '_Stretch
+O '_Offset
+P '_Polyline
+M ! _Move
+U _Undo
+POn ! _PointsOn
+POff ! _PointsOff
+C '_Copy
+W '_SelWindow
+COn '_Cone
+COff '_CurvatureGraphOff
+AdvancedDisplay ! _OptionsPage _AdvancedSettings
+DisplayAttrsMgr ! _OptionsPage _AdvancedSettings
+Break ! _DeleteSubCrv
+SelPolysurface '_SelPolysrf
+PMan ! _OptionsPage _PlugIns
+Za '_Zoom _All _Extents
+Op '_Options
+OO '_Undo
+B '_Box
+Bman '_BlockManager
+PUA '_-Purge _BlockDefinitions=Yes _Layers=Yes _HatchPatterns=Yes
+DD '_-Layer _Visible=Yes _Enter
+Bl '_block
+Uw '_SetView World
+Un '_Units
+uni '_BooleanUnion
+X '_Explode
+Ec '_ExtrudeCrv
+ECc '_ExtrudeCrvAlongCrv
+ECp '_ExtrudeCrvToPoint
+ECt '_ExtrudeCrvTapered
+Rb '_Ribbon
+ECn '_Fin
+ECr '_Ribbon
+Es '_ExtrudeSrf
+Esp '_ExtrudeSrfToPoint
+Est '_ExtrudeSrfTapered
+Esc '_ExtrudeSrfAlongCrv
+Eb '_Slab
+Rec '_Rectangle
+Ar '_Array
+Arp '_ArrayPolar
+Arc '_Arc
+ArS '_ArraySrf
+ArCS '_ArrayCrvOnSrf
+Pp '_SetView World Top
+Vr '_-NamedView _Restore
+Vs '_-NamedView _Save
+VMan '_NamedView
+Vt '_SetView _World _Top
+VL '_SetView _World _Left
+Fr '_SetView _World _Front
+V3 '_3View
+V4 '_4View
+Ln '_-Layer _On _Pause _Enter
+Or '_RotateView
+3D '_3DFace
+Zd '_Zoom _Dyanamic
+Lc '_CopyToLayer
+LCu '_-Layer _Current
+Lo '_-Layer _Off _Pause _Enter
+LcN '_-CopyToLayer _NewLayer
+CW '_-CPlane _World
+Sp '_SrfPt
+Cyl '_Cylinder
+Pyr '_Pyramid
+Pu '_Purge
+Pl '_Plane
+Ro '_Rotate
+CR '_Rotate _Copy=Yes
+Os '_OSnap
+Os1 '_-OSnap _Endpoint=On _Midpoint=On _Enter
+Oso '_OSnap _None _Enter
+Lch '_ChangeLayer _Pause
+E '_Delete
+Osa '_-OSnap Endpoint=On  Near=On  Point=On  Midpoint=On  Center=On  Intersection=On  Perpendicular=On  Tangent=On  Quadrant=On  Knot=ON _Enter
+L '_Line
+Li ! _List
+Pr ! _-Properties _Visible=Yes _Enter
+Pro ! _-Properties _Visible=No _Enter
+DDo '_-Layer _Visible=No _Enter
+LMan '_LayerStateManager
+LL '_Loft
+Sc '_Scale
+SG '_GhostedViewport
+VP '_SetView _World _Perspective _Enter
+SH '_ShadedViewport
+SR '_RenderedViewport
+S3 '_WireframeViewport
+V1 '_MaxViewport
+TB '_ViewportTabs
+Pg '_Polygon
+D '_Distance
+MP '_MeshPolyline
+PN ! _PointsOn
+PO ! _PointsOff
+Su '_BooleanDifference
+Rd !_Render
+Mi '_Mirror
+Sv '_SetView
+Bd '_BooleanDifference
+Bu '_BooleanUnion
+Sl '_SelLayer
+Vc '_ViewCaptureToFile
+4v '_4view
+In '_Insert
+SW1 '_sweep1
+SW2 '_sweep2
+Ex '_Extend
+Exp '_Export
+Tr '_Trim
+Sb '_Slab
+Bs '_BooleanSplit
+Gh '_Grasshopper
+Gp '_GrasshopperPanel
+Gr '_Group
+Ug '_Ungroup
+Dan '_DimAngle
+Vv '_ViewportProperties
+OM '_OffsetMesh
+Se '_IsoMetric _SE
+F '_Fillet
+DL '_Dim
+Dal '_DimAligned
+Plot '_Print
+Br '_Split
+OFs '_Offsetsrf
+SOC '_SelOpenCrv
+SOM '_SelOpenMesh
+SOP '_SelOpenPolysrf
+SOS '_SelOpenSrf
+LA '_Layer
+S1 '_Scale1D
+S2 '_Scale2D
+MS '_MergeSrf
+FS '_FilletSrf
+PJ '_Project
+Pt '_Point
+Set '_Setpt
+CP '_Cplane
+CPs '_NamedCPlane
+DE '_DupEdge
+Mk '_Monkey
+Cv '_Curve
+LT '_Layout
+Be '_BlockEdit
+M2 '_Make2D
+Ma '_MatchProperties
+Uh '_Show
+H '_Hide
+DF '_DupFaceBorder
+SPl '_PlanarSrf
+SPsf '_SelPolysrf
+Axo45 ! _Select _Pause _SetActiveViewport Top _Rotate 0 30 _SetActiveViewport Right _Shear w0 w0, 0, 1 - 45 _SetActiveViewport Top _Zoom _All _Extents
+Oe '_invert _hide
+UT '_UnTrim
+Dv '_Divide
+CC '_CloseCrv
+NE '_IsoMetric _NE
+NW '_IsoMetric _NW
+SW '_IsoMetric _SW
+ME '_MoveEdge
+Im '_Import
+CMan '_NamedCPlane
+Re '_Rebuild
+ePY '_EditPythonScript
+eRH '_EditScript
+Sf '_Hatch
+Mt '_Text
+T '_Text
+Pa '_Patch
+Fc '_Filletcorners
+AA '_Area
+FF '_Flip
+SBN '_SelBlockInstanceNamed
+MF '_MoveFace
+Pb '_Join
+Bo '_CurveBoolean
+Emf '_ExtractMeshFaces
+MD '_DeleteMeshFaces
+SA !_-SetDisplayMode _Mode _Arctic
+rPy '_runpythonscript
+Scf '_ScreenCapturetoFile
+FaceCamera _NoEcho _-Runscript (FaceCamera)
