@@ -9,7 +9,6 @@ These shortcuts have been developed by [@DarrelRonald](https://github.com/Darrel
 1. The Excel file in the repository is an alphabetized overview of the aliases for easier learning.
 
 ### McNeel Rhino Developer Docs
-McNeel Rhino links:
 * [McNeel on Github](https://github.com/mcneel)
 * [McNeel RhinoScript Reference](https://developer.rhino3d.com/guides/rhinoscript/)
 * [McNeel Rhino3D Help - Commands Reference](http://docs.mcneel.com/rhino/6/help/en-us/index.htm#commandlist/command_list.htm%3FTocPath%3D_____3)
