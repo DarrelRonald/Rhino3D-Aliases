@@ -2,7 +2,7 @@
 A custom set of Rhino3D v6 Alias shortcuts based upon the Maxwan AutoCAD shortcuts.
 
 ### Contributors
-These shortcuts have been developed by [@DarrelRonald](https://github.com/DarrelRonald) since 2007. 
+These roughly 175 shortcuts have been developed by [@DarrelRonald](https://github.com/DarrelRonald) since 2007. They prioritize short aliases of between 1 and 2 characters to type in the command line. It drastically speeds up your drawing. The many shortcuts means that most common functions have a short alias already in this list. If you want to add new Aliases, you can refer to the weblink below.
 
 ### Installation
 1. Navigate in Rhino3D to ` Tools > Options > Aliases >` and then `import` the `.TXT` file in the repository. You should overwrite all existing alises, since you can always `Restore Defaults` later. 
